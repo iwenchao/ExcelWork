@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+
+    <color name="color_gray_f0">#f0f0f0</color>
+    <color name="default_black">#333333</color>
+    <color name="black_1c1c1c">#1c1c1c</color>
+    <color name="red_EC4000">#EC4000</color>
+    <color name="gray_999999">#999999</color>
+    <color name="gray_f9f9f9">#f9f9f9</color>
+    <color name="orange_ff5125">#ff5125</color>
+    <color name="orange_FEEDDD">#FEEDDD</color>
+    <color name="orange_FF8000">#FF8000</color>
+    <color name="gray2">#222222</color>
+    <color name="gray6">#666666</color>
+    <color name="gray8">#888888</color>
+    <color name="gray_d">#DDDDDD</color>
+    <color name="bg_pink">#FFFFEDDF</color>
+    <color name="color_gray_f6">#f6f6f6</color>
+    <color name="color_blue_4a8ef7">#4A8EF7</color>
+    <color name="gray_b">#bbbbbb</color>
+    <color name="gray_e5">#e5e5e5</color>
+    <color name="black_15">#151515</color>
+    <color name="gray_626775">#626775</color>
+    <color name="gray_d8">#d8d8d8</color>
+    <color name="gray_e9">#e9e9e9</color>
+    <color name="grey_f7">#f7f7f7</color>
+    <color name="gray_E0E2E4">#e0e2e4</color>
+    <color name="color_black_39393b">#39393B</color>
+    <color name="green_8fc320">#8FC320</color>
+    <color name="green_039703">#039703</color>
+
+    <color name="black_4d000000">#4D000000</color>
+    <color name="color_e0">#e0e0e0</color>
+    <color name="gray_f5">#f5f5f5</color>
+
+    <color name="phone_bg">#F1F1F1</color>
+    <color name="text_notify">#FFFF9900</color>
+
+    <color name="orange_ff6000">#FF6000</color>
+    <color name="gray_D0D0D0">#D0D0D0</color>
+
+
+    <color name="color_live_dialog_title">#F9CC7F</color>
+    <color name="color_gold_live_dialog">#F9CC7F</color>
+    <color name="color_amount_border_live_dialog">#FFB257</color>
+
+    <color name="color_red_FF4373">#FF4373</color>
+    <color name="color_red_FF563A">#ff563a</color>
+    <color name="color_red_FF5C5C">#FF5C5C</color>
+    <color name="color_red_FF6931">#FF6931</color>
+    <color name="color_blue_346EC2">#346EC2</color>
+    <color name="color_green_43AB93">#43AB93</color>
+    <color name="color_yellow_FFAD3D">#FFAD3D</color>
+    <color name="transparent_99_white">#99FFFFFF</color>
+    <color name="color_yellow_FFB468">#ffb468</color>
+    <color name="color_yellow_ffc292">#ffc292</color>
+    <color name="color_yellow_fff2e7">#FFF2E7</color>
+</resources>
